@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab6</string>
+    <string name="chanel_name">Chanel name</string>
+    <string name="chanel_description">Chanel description</string>
+</resources>
